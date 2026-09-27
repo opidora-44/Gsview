@@ -218,4 +218,4 @@ GSview is available as a full free version, providing all features and updates w
 Unlock the full potential of your PostScript and PDF documents with GSview. **Download GSview for free today and streamline your workflow!**
 
 ---
-**Last updated:** 2026-09-27 03:29:17 UTC
+**Last updated:** 2026-09-27 09:35:06 UTC
